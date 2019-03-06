@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.3)  5 MAR 2019 15:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.4.3)  6 MAR 2019 16:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -58,14 +58,14 @@ LaTeX Font Info:    ... okay on input line 54.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
 LaTeX Font Info:    ... okay on input line 54.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 75.
+(Font)              <7> on input line 74.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 75.
+(Font)              <5> on input line 74.
 
-/Users/chaowen/cv/cv.tex:142: Undefined control sequence.
+/Users/chaowen/cv/cv.tex:141: Undefined control sequence.
 <inserted text> ...lty \begin {ncolumn}{2}\@dates 
                                                   &\@location \end {ncolumn}\\
-l.142 \begin{position}
+l.141 \begin{position}
                       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -73,17 +73,17 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 147.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 146.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 147.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 146.
 
-/Users/chaowen/cv/cv.tex:158: Undefined control sequence.
+/Users/chaowen/cv/cv.tex:157: Undefined control sequence.
 <inserted text> ...lty \begin {ncolumn}{2}\@dates 
                                                   &\@location \end {ncolumn}\\
-l.158 \begin{position}
+l.157 \begin{position}
                       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -92,13 +92,13 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-/Users/chaowen/cv/cv.tex:175: LaTeX Error: There's no line here to end.
+/Users/chaowen/cv/cv.tex:174: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.175 \normalfont
+l.174 \normalfont
                  {[1] G. Wang, \textbf{C. Chen}, C. Chen, L. Pan, Y. Wang, C...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -111,38 +111,17 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
 
-/Users/chaowen/cv/cv.tex:179: LaTeX Error: There's no line here to end.
+/Users/chaowen/cv/cv.tex:178: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.179 
+l.178 
       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
-
-
-/Users/chaowen/cv/cv.tex:185: LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.185 \normalfont
-                 {[1] Streaming scalable video Sequences with media-aware ne...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-/Users/chaowen/cv/cv.tex:185: You can't use `macro parameter character #' in horizontal mode.
-l.185 ...s, MOST Undergraduate Research Project (#
-                                                  107-2813-C-007 -074 -E), \...
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
 
 [1
 
@@ -154,9 +133,9 @@ Here is how much of TeX's memory you used:
  3971 multiletter control sequences out of 15000+600000
  4906 words of font info for 18 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,8n,19p,273b,198s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,8n,19p,269b,198s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on /Users/chaowen/cv/cv.pdf (1 page, 78058 bytes).
+Output written on /Users/chaowen/cv/cv.pdf (1 page, 78146 bytes).
 PDF statistics:
  28 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
