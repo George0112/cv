@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1592476126 "/Users/chaowen/Desktop/GitHub/cv/cv.tex" "/Users/chaowen/Desktop/GitHub/cv/cv.pdf" "cv" 1592476127
-  "/Users/chaowen/Desktop/GitHub/cv/cv.aux" 1592476077 8 a94a2480d3289e625eea47cd1b285758 ""
-  "/Users/chaowen/Desktop/GitHub/cv/cv.tex" 1592476125 8052 7d4c1c0317c1a1d3068028572200e4be ""
+["pdflatex"] 1592485721 "/Users/chaowen/Desktop/GitHub/cv/cv.tex" "/Users/chaowen/Desktop/GitHub/cv/cv.pdf" "cv" 1592485722
+  "/Users/chaowen/Desktop/GitHub/cv/cv.aux" 1592484331 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/Users/chaowen/Desktop/GitHub/cv/cv.tex" 1592485721 7733 92145c9208cffac1dfd4394a9ed45bb9 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -23,11 +23,11 @@
   "/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1586288239 4811913 0be9a7e86c70a26e5e3042966bcd7097 ""
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1586783717 2432463 5b5c4009d1a6025d383f978d69d0aff7 ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
-  "cv.aux" 1592476077 8 a94a2480d3289e625eea47cd1b285758 ""
-  "cv.tex" 1592476125 8052 7d4c1c0317c1a1d3068028572200e4be ""
+  "cv.aux" 1592484331 8 a94a2480d3289e625eea47cd1b285758 ""
+  "cv.tex" 1592485721 7733 92145c9208cffac1dfd4394a9ed45bb9 ""
   "res.cls" 1590571746 26968 f8cf96ef2831067f0ba534adb1a580cf ""
   (generated)
   "/Users/chaowen/Desktop/GitHub/cv/cv.log"
+  "cv.pdf"
   "cv.log"
   "/Users/chaowen/Desktop/GitHub/cv/cv.pdf"
-  "cv.pdf"
