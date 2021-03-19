@@ -1,30 +1,27 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.13)  19 JUN 2020 22:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.5)  19 MAR 2021 15:17
 entering extended mode
- restricted \write18 enabled.
- file:line:error style messages enabled.
- %&-line parsing enabled.
-**/Users/chaowen/Desktop/GitHub/cv/cv.tex
-(/Users/chaowen/Desktop/GitHub/cv/cv.tex
-LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-03-06> (/Users/chaowen/Desktop/GitHub/cv/res.cls
+**/Users/chaowen/Desktop/github/cv/cv.tex
+(/Users/chaowen/Desktop/github/cv/cv.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03> (/Users/chaowen/Desktop/github/cv/res.cls
 Document Style `res' <26 Sep 89>.
 Document Class: res 2000/05/19 v1.4b Resume class
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+("/Users/chaowen/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls"
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+("/Users/chaowen/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/size10.clo"
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-\c@part=\count167
-\c@section=\count168
-\c@subsection=\count169
-\c@subsubsection=\count170
-\c@paragraph=\count171
-\c@subparagraph=\count172
-\c@figure=\count173
-\c@table=\count174
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen134
+\bibindent=\dimen138
 )
 No auxiliary output files.
 
@@ -33,21 +30,21 @@ No auxiliary output files.
 \tabular@tail=\toks17
 \@ta=\toks18
 \undefined@token=\toks19
-\sectionwidth=\dimen135
+\sectionwidth=\dimen139
 \sectionskip=\skip49
-\resumewidth=\dimen136
-\@columnwidth=\dimen137
-\c@numberofcolumns=\count175
-) (/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/helvet.sty
-Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
- (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+\resumewidth=\dimen140
+\@columnwidth=\dimen141
+\c@numberofcolumns=\count185
+) ("/Users/chaowen/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/helvet.sty"
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+ ("/Users/chaowen/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks20
-)) (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count176
-\l__pdf_internal_box=\box45
-) (/Users/chaowen/Desktop/GitHub/cv/cv.aux)
+)) ("/Users/chaowen/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def"
+File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count186
+\l__pdf_internal_box=\box47
+) (/Users/chaowen/Desktop/github/cv/cv.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
 LaTeX Font Info:    ... okay on input line 54.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
@@ -67,41 +64,60 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 75.
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--130
+Overfull \hbox (0.21649pt too wide) in paragraph at lines 127--129
+[]\OT1/cmr/bx/n/10 Dynamic Distributed Deep Neural Network Deployment inEdge-Computing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--133
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--138
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 142--145
+Underfull \hbox (badness 10000) in paragraph at lines 138--141
 
  []
 
 [1
 
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 149--152
+{/Users/chaowen/Library/Application Support/MiKTeX/texmfs/data/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 145--148
 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--155
+
+ []
+
+
+Overfull \hbox (26.05798pt too wide) in paragraph at lines 163--165
+\OT1/cmr/m/n/10 scalable video sequences with media-aware network elements implemented in P4 programming
+ []
+
+
+Overfull \hbox (16.2423pt too wide) in paragraph at lines 163--165
+\OT1/cmr/m/n/10 language," in Proc. of IEEE Network Operations and Management Symposium (NOMS'18)
+ []
+
+
+Overfull \hbox (15.89142pt too wide) in paragraph at lines 166--168
+\OT1/cmr/m/n/10 temporal scheduling of in-Situ and mobile Internet-of-Things devices for urban environment
  []
 
 [2] ) 
 Here is how much of TeX's memory you used:
- 495 strings out of 480608
- 8143 string characters out of 5903630
- 245752 words of memory out of 5000000
- 16454 multiletter control sequences out of 15000+600000
- 533939 words of font info for 29 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 32i,8n,24p,329b,197s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on /Users/chaowen/Desktop/GitHub/cv/cv.pdf (2 pages, 80959 bytes).
+ 549 strings out of 481551
+ 9924 string characters out of 2914203
+ 283298 words of memory out of 3000000
+ 17547 multiletter control sequences out of 15000+200000
+ 405031 words of font info for 32 fonts, out of 3000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 58i,8n,64p,435b,195s stack positions out of 5000i,500n,10000p,200000b,50000s
+ </Users/chaowen/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk></Users/chaowen/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Users/chaowen/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/chaowen/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/chaowen/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsl10.pfb>
+Output written on /Users/chaowen/Desktop/github/cv/cv.pdf (2 pages, 79799 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
- 22 compressed objects within 1 object stream
+ 31 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
